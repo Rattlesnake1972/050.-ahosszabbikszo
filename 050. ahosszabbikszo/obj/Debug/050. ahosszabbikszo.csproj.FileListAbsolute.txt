@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\050. ahosszabbikszo\050. ahosszabbikszo\bin\Debug\_050.ahosszabbikszo.exe.config
+C:\Users\gratt\source\repos\050. ahosszabbikszo\050. ahosszabbikszo\bin\Debug\_050.ahosszabbikszo.exe
+C:\Users\gratt\source\repos\050. ahosszabbikszo\050. ahosszabbikszo\bin\Debug\_050.ahosszabbikszo.pdb
+C:\Users\gratt\source\repos\050. ahosszabbikszo\050. ahosszabbikszo\obj\Debug\050. ahosszabbikszo.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\050. ahosszabbikszo\050. ahosszabbikszo\obj\Debug\_050.ahosszabbikszo.exe
+C:\Users\gratt\source\repos\050. ahosszabbikszo\050. ahosszabbikszo\obj\Debug\_050.ahosszabbikszo.pdb
